@@ -1,0 +1,11 @@
+{
+  "name": "comitia-checker",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "iconv": "^2.2.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
